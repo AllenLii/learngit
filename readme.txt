@@ -6,3 +6,4 @@ commit on dev --no-ff again
 fix bug
 stash it
 stash the edit after git add
+git clean -d -f
